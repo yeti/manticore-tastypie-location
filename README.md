@@ -1,0 +1,2 @@
+manticore-tastypie-location
+===========================
